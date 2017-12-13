@@ -1,12 +1,12 @@
 # ESP32-RGB-Matrix-Display
 Features:
-*4 bit colors per channel, 4096 colors total
-*~50 fps
-*Free pin definitions: see two constructors
-*brightness control in 11 Steps 0 to 10 without loss of color quality
-*Adafruit GFX Support. Many methods to draw text, lines, circles etc...
-*free Loop-Function for your other stuff. See the example
-*easy to modify for other display sizes
+-4 bit colors per channel, 4096 colors total
+-~50 fps
+-Free pin definitions: see two constructors
+-brightness control in 11 Steps 0 to 10 without loss of color quality
+-Adafruit GFX Support. Many methods to draw text, lines, circles etc...
+-free Loop-Function for your other stuff. See the example
+-easy to modify for other display sizes
 
 
 [Demo Youtube Video](https://www.youtube.com/watch?v=64wF-8Sm97w)
