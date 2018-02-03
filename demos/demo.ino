@@ -2,8 +2,6 @@
 
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
-
-#include "D:\OneDrive\Projekte\Hardware\Arduino\wifisettings\wifisettings.h"
 #include "Adafruit_GFX.h"
 #include "ESP32RGBmatrixPanel.h"
 
