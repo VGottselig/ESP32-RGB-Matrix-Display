@@ -2,6 +2,10 @@
 Author:	Vitali Gottselig
 https://github.com/
 */
+
+#ifndef ESP32RGB_MATRIX_PANEL_H
+#define ESP32RGB_MATRIX_PANEL_H
+
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
 #include "Adafruit_GFX.h"
@@ -148,3 +152,5 @@ private:
 	uint8 column = 0;
 	uint8 yS;
 };
+
+#endif
