@@ -1,5 +1,5 @@
 #include "ESP32RGBmatrixPanel.h"
-#include "./../../hardware/espressif/esp32/cores/esp32/esp32-hal-gpio.h"
+#include <esp32-hal-gpio.h>
 //G1	R1 |
 //GND	B1 |
 //G2	R2 |
